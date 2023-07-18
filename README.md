@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chiragshivam
 - 👀 I’m interested in learning new tech and growing
-- 🌱 I’m currently learning ASP.NET core
+- 🌱 I’m currently learning Java Spring boot
 - 💞️ I’m looking to collaborate on projects that need help
 - 📫 You can reach me on ch1ragr3ads@gmail.com
 
